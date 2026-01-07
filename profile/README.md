@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to Friym!
 
-![Header](images/bann.png)
+![Header](bann.png)
 
 **Friym** is a next-generation social platform designed to connect, inspire, and empower voices from Africa and beyond.  
 We’re building a space where creativity, community, and opportunity come together — all powered by a modern, respectful, and inclusive experience.
